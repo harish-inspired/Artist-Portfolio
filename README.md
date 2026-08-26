@@ -1,3 +1,3 @@
 ARTIST PORTFOLIO 
 
-OUTPUT LINK : scoobeeart.neocities.org
+OUTPUT LINK : http://scoobeeart.neocities.org
